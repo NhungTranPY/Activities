@@ -8,9 +8,9 @@ export default function HomePage() {
             <Container text>
                 <Header as='h1' inverted>
                     <Image size='massive' src='/assets/logo.png' alt='logo' style={{marginBottom: 12}} />
-                    Activities
+                    Nha Trang Activities
                 </Header>
-                <Header as='h2' inverted content='Welcome to activities' />
+                <Header as='h2' inverted content='Welcome to activities in Nha Trang' />
                 <Button as={Link} to='/activities' size='huge' inverted>
                     Take me to activities !!!!
                 </Button>
